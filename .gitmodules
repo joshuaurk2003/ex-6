@@ -1,0 +1,3 @@
+[submodule "shaju"]
+	path = shaju
+	url = https://github.com/joshuaurk2003/shaju.git
